@@ -1,4 +1,4 @@
-FROM hub.c.163.com/library/redis:3.2
+FROM hub.c.163.com/library/redis:4.0.1
 
 COPY redis.conf /usr/local/etc/redis/redis.conf
 
